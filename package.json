@@ -1,0 +1,9 @@
+{
+  "name": "balloon-game-task",
+  "version": "1.0.0",
+  "description": "This is a boilerplate of the balloon game. Please extend it to implement the game.",
+  "repository": "git@github.com:eugene-malashkin/balloon-game-task.git",
+  "author": "Evgeniy Malashkin <emalashkin@aligntech.com>",
+  "license": "MIT",
+  "private": false
+}
